@@ -19,7 +19,7 @@
 
 /* Carimbo de versao. Formato: AAAA-MM-DD-NN (NN = edicao do dia).
    BUMP este valor a cada alteracao da lista de numeros. */
-window.WA_CONFIG_VERSION = '2026-07-19-01';
+window.WA_CONFIG_VERSION = '2026-07-19-02';
 
 window.WA_NUMEROS = [
   '5575998297815'
