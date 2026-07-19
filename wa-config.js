@@ -19,11 +19,11 @@
 
 /* Carimbo de versao. Formato: AAAA-MM-DD-NN (NN = edicao do dia).
    BUMP este valor a cada alteracao da lista de numeros. */
-window.WA_CONFIG_VERSION = '2026-07-16-01';
+window.WA_CONFIG_VERSION = '2026-07-19-01';
 
 window.WA_NUMEROS = [
   '557588484131',
-  '5575988484131'
+  '5575998297815'
 ];
 
 /* Mensagem que ja vem preenchida ao abrir o WhatsApp */
