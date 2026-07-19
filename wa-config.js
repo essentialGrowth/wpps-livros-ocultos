@@ -22,7 +22,6 @@
 window.WA_CONFIG_VERSION = '2026-07-19-01';
 
 window.WA_NUMEROS = [
-  '557588484131',
   '5575998297815'
 ];
 
