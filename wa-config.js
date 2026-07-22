@@ -22,7 +22,8 @@
 window.WA_CONFIG_VERSION = '2026-07-19-02';
 
 window.WA_NUMEROS = [
-  '5575998297815'
+  '5575999007455',
+   '5575998935267'
 ];
 
 /* Mensagem que ja vem preenchida ao abrir o WhatsApp */
