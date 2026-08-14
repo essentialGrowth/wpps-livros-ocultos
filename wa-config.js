@@ -26,8 +26,7 @@ window.WA_NUMEROS = [
    '5575997052870',
    '5575999312565',
    '5575999971984',
-   '557598173424',
-   '5575999433803'
+   '557598173424'
 ];
 
 /* Mensagem que ja vem preenchida ao abrir o WhatsApp */
